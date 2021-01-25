@@ -856,7 +856,7 @@ http://godel.stanford.edu/corpora_2_0#44be1ab3ab2acb4070d1774456510c0c	FIO017	15
 http://godel.stanford.edu/corpora_2_0#e0c7c222f748ec2ca913672a2217ffa6	MIO035	1590.820	[Yeah.]	g	http://godel.stanford.edu/corpora_2_0#9778b4509b1fab5b0e36f19e281586d3
 http://godel.stanford.edu/corpora_2_0#0820bdf2ec3f25b039936e8623d02f0c	MIO035	1595.840	[It's good.]	g	http://godel.stanford.edu/corpora_2_0#9778b4509b1fab5b0e36f19e281586d3
 http://godel.stanford.edu/corpora_2_0#302d8812125199092e9caed86d3aff72	FIO017	1597.110	[And L_C_D_ buttons.]	is	http://godel.stanford.edu/corpora_2_0#196251a10fa2a01f37beb46d2105dc8f
-http://godel.stanford.edu/corpora_2_0#1e9b15bc102dcc0307bc16bc55db1b03	MIO005	1600.160	[Yeah, L_C_D_.]	g	http://godel.stanford.edu/corpora_2_0#196251a10fa2a01f37beb46d2105dc8f	
+http://godel.stanford.edu/corpora_2_0#1e9b15bc102dcc0307bc16bc55db1b03	MIO005	1600.160	[Yeah, L_C_D_.]	g	http://godel.stanford.edu/corpora_2_0#196251a10fa2a01f37beb46d2105dc8f
 http://godel.stanford.edu/corpora_2_0#f2bb45aff748f19a34029c42b12985cd	FIO017	1614.960	[Yeah,]		
 http://godel.stanford.edu/corpora_2_0#3c5fe2170ad91ed8d594ec91f9796098	FIO017	1615.150	[I think for these supplements the solar energy would be something quite interesting and not maybe too difficult to add.]		
 http://godel.stanford.edu/corpora_2_0#4f6f9fa961027d639c743e44c412eecf	MIO005	1623.300	[Yeah, yeah, yeah.]		
